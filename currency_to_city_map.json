@@ -1,0 +1,5 @@
+{
+  "RMB": ["shenzhen", "shanghai", "beijing", "hangzhou"],
+  "EUR": ["paris", "london", "berlin", "frankfurt"],
+  "USD": ["atlanta", "miami", "dallas", "san francisco"]
+}
