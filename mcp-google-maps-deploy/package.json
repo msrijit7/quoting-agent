@@ -1,0 +1,10 @@
+{
+  "name": "mcp-google-maps-server",
+  "private": true,
+  "dependencies": {
+    "@cablate/mcp-google-map": "latest"
+  },
+  "scripts": {
+    "start": "node ./node_modules/@cablate/mcp-google-map/dist/cli.js --port 8080"
+  }
+}
